@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Ipop</string>
+    <string name="app_name">Popup</string>
+    <string name="fb_app_id">163256705754395</string>
+    <string name="fb_login_protocol_scheme">fb163256705754395</string>
+    <string name="pesdk_editor_title_name"> </string>
 </resources>
