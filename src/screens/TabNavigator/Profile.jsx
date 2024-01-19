@@ -31,6 +31,7 @@ const Profile = ({ navigation }) => {
 </View>
 
 
+
     </SafeAreaView>
   );
 };
